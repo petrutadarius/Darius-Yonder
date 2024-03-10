@@ -1,0 +1,15 @@
+id,nume,prenume,categorie,data_de_emitere,data_de_expirare,suspedat
+1,Dumitrescu,Laura,C1,None,None,None
+2,Popescu,Andrei,C1E,None,None,None
+4,Vasile,Elena,D1E,None,None,None
+5,Neagu,Alexandru,C1,None,None,None
+6,Stoica,Raluca,C1,None,None,None
+9,Stoica,Florin,D1,None,None,None
+12,Dumitrescu,Andrei,C1,None,None,None
+13,Radu,Cristina,A1,None,None,None
+15,Neagu,Mihai,CE,None,None,None
+16,Neagu,Andrei,D1E,None,None,None
+18,Ionescu,Adrian,D,None,None,None
+22,Gheorghe,Adrian,A1,None,None,None
+29,Petrescu,Alexandru,C,None,None,None
+30,Neagu,Ioana,CE,None,None,None

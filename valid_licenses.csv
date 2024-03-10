@@ -1,0 +1,13 @@
+id,nume,prenume,categorie,data_de_emitere,data_de_expirare,suspedat
+7,Petrescu,Laura,D1,None,None,None
+8,Radu,Maria,B1,None,None,None
+10,Marin,Ion,D,None,None,None
+17,Stan,Ana,A,None,None,None
+19,Stoica,Gabriel,B,None,None,None
+20,Dumitrescu,Ioana,C1,None,None,None
+21,Neagu,Maria,B1,None,None,None
+23,Ungureanu,Elena,DE,None,None,None
+24,Marin,Maria,B1,None,None,None
+25,Dumitrescu,Florin,D,None,None,None
+26,Ionescu,Mihai,C1E,None,None,None
+28,Vasile,Ion,D,None,None,None
